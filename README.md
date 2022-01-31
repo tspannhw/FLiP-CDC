@@ -15,6 +15,7 @@ Using Debezium CDC Connectors (Postgresql, Mysql, MongoDB) with Apache Pulsar
 * https://hub.streamnative.io/connectors/debezium-mysql-source/2.5.1/
 * https://pulsar.apache.org/docs/en/io-cdc-debezium/
 * https://hub.streamnative.io/connectors/debezium-mongodb-source/2.5.1/
+* https://github.com/debezium/debezium-examples/blob/main/apache-pulsar/README.md
 
 ### Data Ideas
 
