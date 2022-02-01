@@ -27,9 +27,16 @@ Using Debezium CDC Connectors (Postgresql, Mysql, MongoDB) with Apache Pulsar
 * https://docs.abuseipdb.com/#introduction
 * https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.atom
 
+
+### MongoDB, Postgresql, MySQL
+
+* https://github.com/apache/pulsar/blob/master/pulsar-io/debezium/mongodb/src/main/resources/debezium-mongodb-source-config.yaml
+
+
 ### Example docker setup
 
 * https://hub.docker.com/r/debezium/server
+* https://hub.docker.com/_/mongo
 
 ````
 # 8080
