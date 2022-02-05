@@ -26,6 +26,7 @@ Using Debezium CDC Connectors (Postgresql, Mysql, MongoDB) with Apache Pulsar
 * https://urlscan.io/docs/api/#search
 * https://docs.abuseipdb.com/#introduction
 * https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.atom
+* https://pulsar.apache.org/docs/en/io-cdc-debezium/
 
 
 ### MongoDB, Postgresql, MySQL
